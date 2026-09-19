@@ -1,0 +1,1 @@
+worker: python codebuddy_bot.py
